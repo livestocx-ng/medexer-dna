@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
                             <div className="bg-secondary p-2 rounded-full">
                                 <Dna className="h-5 w-5 text-primary" />
                             </div>
-                            <span className="text-xl font-serif font-medium tracking-tight">Medexer DNA</span>
+                            <span className="text-xl font-serif font-medium tracking-tight">U-Gene</span>
                         </Link>
                         <Text size="sm" color="text-secondary/80" className="leading-relaxed">
                             Pioneering precision medicine in the UAE. Detailed genomic insights for a longer, healthier life.
@@ -61,7 +61,7 @@ export const Footer: React.FC = () => {
                 </div>
 
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-secondary/50">
-                    <p>&copy; {new Date().getFullYear()} Medexer DNA Health. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} U-Gene Health. All rights reserved.</p>
                     <p>Designed with care.</p>
                 </div>
             </div>

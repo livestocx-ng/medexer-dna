@@ -19,12 +19,12 @@ export const Hero = () => {
                     </div>
 
                     <Heading level={1} color="text-secondary" className="leading-tight">
-                        Unlock Your Health Potential with DNA-Based Insights
+                        Unlock Your Health Potential with U-Gene Insights
                     </Heading>
 
                     <Text size="xl" color="text-secondary/80" className="max-w-xl font-light">
                         We translate your genetic data into actionable health strategies.
-                        Medexer DNA bridges the gap between complex science and your daily well-being.
+                        U-Gene bridges the gap between complex science and your daily well-being.
                     </Text>
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4">
@@ -47,7 +47,7 @@ export const Hero = () => {
                     <div className="relative aspect-[4/5] rounded-[2rem] overflow-hidden shadow-2xl bg-secondary/5 border border-secondary/10 group">
                         <img
                             src={HeroImage}
-                            alt="DNA Concept"
+                            alt="U-Gene Concept"
                             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                         />
                         <div className="absolute inset-0 bg-gradient-to-br from-secondary/20 to-transparent mix-blend-overlay"></div>

@@ -16,7 +16,7 @@ export const FinalCTA: React.FC = () => {
                 </Heading>
 
                 <Text size="xl" color="text-secondary/80" align="center" className="mb-12 max-w-2xl mx-auto">
-                    Join the movement towards precision medicine. Your DNA holds the answers—let us help you read them.
+                    Join the movement towards precision medicine. Your U-Gene profile holds the answers—let us help you read them.
                 </Text>
 
                 <div className="flex flex-col sm:flex-row gap-5 justify-center">

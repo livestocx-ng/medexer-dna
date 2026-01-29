@@ -66,7 +66,7 @@ export const Navbar: React.FC = () => {
                             <Dna className="h-5 w-5 text-secondary" />
                         </div>
                         {/* <span className="text-xl md:text-2xl font-serif font-medium text-primary tracking-tight">
-                            Medexer DNA
+                            U-Gene
                         </span> */}
                     </Link>
 

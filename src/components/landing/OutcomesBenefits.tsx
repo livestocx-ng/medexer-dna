@@ -30,7 +30,7 @@ export const OutcomesBenefits: React.FC = () => {
                         </li>
                         <li className="flex items-start gap-3">
                             <CheckCircle2 className="w-5 h-5 text-blue-500 mt-0.5 flex-shrink-0" />
-                            <span className="text-slate-300 text-sm">Tailored care plans matching your DNA.</span>
+                            <span className="text-slate-300 text-sm">Tailored care plans matching your U-Gene profile.</span>
                         </li>
                         <li className="flex items-start gap-3">
                             <CheckCircle2 className="w-5 h-5 text-blue-500 mt-0.5 flex-shrink-0" />

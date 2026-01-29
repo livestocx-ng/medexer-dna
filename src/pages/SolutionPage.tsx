@@ -16,7 +16,7 @@ export const SolutionPage: React.FC = () => {
                 <Section className="bg-primary-50 pt-32 pb-16">
                     <h1 className="text-4xl font-bold text-center text-slate-900 mb-6">Our Solution</h1>
                     <p className="text-xl text-center text-slate-600 max-w-3xl mx-auto">
-                        Discover how Medexer DNA Health leverages cutting-edge genomics and AI to transform patient care.
+                        Discover how U-Gene Health leverages cutting-edge genomics and AI to transform patient care.
                     </p>
                 </Section>
                 <TheSolution />

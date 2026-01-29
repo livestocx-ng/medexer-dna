@@ -7,7 +7,7 @@ export const TheSolution: React.FC = () => {
     return (
         <Section id="solution" className="bg-slate-50">
             <div className="text-center mb-16 max-w-3xl mx-auto">
-                <h2 className="text-3xl font-bold text-slate-900 mb-4">Medexer DNA Health Solution</h2>
+                <h2 className="text-3xl font-bold text-slate-900 mb-4">U-Gene Health Solution</h2>
                 <p className="text-lg text-slate-600">
                     A comprehensive platform integrating genomic data with clinical insights to deliver true precision medicine.
                 </p>

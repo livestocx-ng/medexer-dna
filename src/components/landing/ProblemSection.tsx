@@ -34,11 +34,11 @@ export const ProblemSection = () => {
 
                     <div className="space-y-6">
                         <Text size="lg" color="text-primary/80">
-                            Most health advice is based on population averages. But you are not an average. Your DNA holds the specific instructions for your optimal diet, fitness, and longevity.
+                            Most health advice is based on population averages. But you are not an average. Your U-Gene profile holds the specific instructions for your optimal diet, fitness, and longevity.
                         </Text>
 
                         <Text size="lg" color="text-primary/80">
-                            Medexer DNA decodes this complexity, turning millions of data points into a simple, actionable roadmap for your health.
+                            U-Gene decodes this complexity, turning millions of data points into a simple, actionable roadmap for your health.
                         </Text>
                     </div>
 

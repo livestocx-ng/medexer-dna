@@ -8,7 +8,7 @@ export const FeaturesSection = () => {
         {
             icon: Dna,
             title: "Genomic Precision",
-            description: "We sequence your DNA to identify specific variants that influence your metabolism, injury risk, and nutritional needs."
+            description: "We analyze your U-Gene profile to identify specific variants that influence your metabolism, injury risk, and nutritional needs."
         },
         {
             icon: Activity,

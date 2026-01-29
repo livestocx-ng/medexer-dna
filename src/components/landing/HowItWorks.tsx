@@ -7,7 +7,7 @@ export const HowItWorks: React.FC = () => {
         {
             icon: <TestTube2 className="w-6 h-6 text-white" />,
             title: "Sample Collection & Sequencing",
-            description: "Simple saliva collection kit delivered to your door. We sequence your DNA using advanced NGS technology."
+            description: "Simple saliva collection kit delivered to your door. We sequence your genome using advanced NGS technology."
         },
         {
             icon: <Brain className="w-6 h-6 text-white" />,
