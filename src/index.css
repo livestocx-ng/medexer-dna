@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-primary-light: #2A6F69;
+  --color-primary: #1A5752;
+  --color-primary-dark: #123F3B;
+  --color-primary-foreground: #FCFAF5;
+
+  --color-secondary-light: #FCFAF5;
+  --color-secondary: #F4F0E6;
+  --color-secondary-dark: #E6DFC9;
+  --color-secondary-foreground: #1A5752;
+
+  --color-surface: #FCFAF5;
+  --color-surface-dark: #F4F0E6;
+
+  --color-muted: #8A9998;
+  --color-muted-foreground: #1A5752;
+
+  --color-accent: #D4C5A8;
+
+  /* Fonts */
+  --font-sans: "Inter", "Plus Jakarta Sans", sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-display: "Albra", "Playfair Display", serif;
+
+  /* Border Radius */
+  --radius-pill: 500px;
+
+  /* Background Images */
+  --image-hero-pattern: url('/assets/hero-bg.svg');
+}
+
+/* Base Styles */
+@layer base {
+  body {
+    @apply bg-surface text-primary font-sans antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif font-medium;
+  }
+}
+
+/* Component Styles */
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
